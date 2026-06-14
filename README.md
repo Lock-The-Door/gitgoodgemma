@@ -6,6 +6,6 @@ Operator ID: bingus
 Access Code: bingusbingus
 Flags: ["CyberSci{bingus}"]
 
-TO VIEW MORE DETAILED DOCUMENTATION YOU VISIT localhost:8000/login
+TO VIEW MORE DETAILED DOCUMENTATION YOU VISIT http://localhost:8000/login
 
 Here are more examples:
