@@ -6,6 +6,6 @@ Operator ID: bingus
 Access Code: bingusbingus
 Flags: ["CyberSci{bingus}"]
 
-TO INSTALL YOU MUST VISIT localhost:8000/login and enter your credentials to access the download link. 
+TO VIEW MORE DETAILED DOCUMENTATION YOU MUST VISIT localhost:8000/login and enter your credentials to access the download link. 
 
 Here are more examples:
