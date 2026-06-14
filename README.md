@@ -9,6 +9,6 @@ Flags: ["CyberSci{bingus}"]
 }
 ```
 
-More docs: http://localhost:8000/login
+More docs: http://localhost:8000/login and http://localhost:8000/docs http://localhost:8000/login?format=docs
 
 Here are more examples:
