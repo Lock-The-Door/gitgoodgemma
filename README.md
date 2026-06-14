@@ -6,8 +6,9 @@ For example:
 Operator ID: bingus
 Access Code: bingusbingus
 Flags: ["CyberSci{bingus}"]
-}```
+}
+```
 
-Installation steps at: http://localhost:8000/login
+More docs: http://localhost:8000/login
 
 Here are more examples:
